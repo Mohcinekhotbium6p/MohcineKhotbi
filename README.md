@@ -1,6 +1,5 @@
-mohcine-khotbi / README.md
 <img width="150" height="150" style="border-radius: 50%;" alt="Mohcine" src="https://github.com/user-attachments/assets/e58e2c64-f617-4814-9482-1410007e2cef" />
-
+mohcine-khotbi / README.md
 ### Hi there 👋
 
 I'm Mohcine, a Financial Engineer and aspiring Actuarial & Private Equity Analyst from 🇲🇦 Morocco.
