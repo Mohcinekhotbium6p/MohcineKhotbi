@@ -1,4 +1,5 @@
 mohcine-khotbi / README.md
+<img width="400" height="400" alt="1770776538746" src="https://github.com/user-attachments/assets/e58e2c64-f617-4814-9482-1410007e2cef" />
 
 ### Hi there 👋
 
