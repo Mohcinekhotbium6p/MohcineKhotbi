@@ -8,10 +8,11 @@
       <p>I'm Mohcine, a Financial Engineer and aspiring Actuarial & Private Equity Analyst from 🇲🇦 Morocco.</p>
       <p>✨ <strong>About Me in 30 Secs</strong> ✨</p>
       <ul>
-        <li>🎓 MSc in Financial Engineering @UM6P + US Embassy Program Alumnus</li>
-        <li>📈 Transitioning my quantitative toolkit toward Actuarial Science & Private Equity</li>
-        <li>🛠️ Built projects this year focused on derivative pricing, risk modeling, and financial data analysis. Fluent in Python, R, SQL, and C++</li>
-        <li>💡 Uses Python for everything - pricing options, backtesting strategies, data scraping, and automating daily workflows</li>
+        <li>🎓 Financial Engineering MSc @UM6P with a background in Applied Economics @UMI </li>
+        <li>📈 Transitioning from Economics to Actuarial Science & Private Equity </li>
+        <li>🛠️ Fascinated by the intersection of Quant finance and Social sciences. I use Python, R, and SQL to model risk and uncover value </li>
+        <li>💡 Uses philosophy for almost everything  (Ti esti to agathon?)- framing modern risk, valuation, and market psychology </li>
+        <li>🎥 Documents the journey on LinkedIn through 1-minute videos on risk, deal-making, and financial strategy </li>
       </ul>
     </td>
   </tr>
